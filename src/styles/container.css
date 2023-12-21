@@ -1,0 +1,12 @@
+.container-bg{
+    background-image: url(/src/files/capa-digimon.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
